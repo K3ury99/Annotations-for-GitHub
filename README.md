@@ -28,7 +28,7 @@
 This way you can `underline` the most `important` words!
 
 # Bold words ✏
-This way you can **bold** your **words!**
+This way you can **BOLD** your **words!**
 
 # Make some lists! 📔
 - **Favorite Fruits**:
