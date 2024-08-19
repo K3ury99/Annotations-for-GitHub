@@ -39,10 +39,10 @@ This way you can **bold** your **words!**
 
 
 # Copy things directly 🔗
-Puedes agregar una barra para copiar directamente alguna cosa
-    ```bash
-    Here you can directly copy this comment by clicking the button on the right
-    ```
+You can add a bar to directly copy something
+```bash
+Here you can directly copy this comment by clicking the button on the right
+```
 
 
 
