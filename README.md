@@ -53,7 +53,7 @@ https://gprm.itsvg.in
 > The banners present your person, you can make a **banner** like this profile in **Canva** in very few steps and without needing much knowledge as a designer.
 <img src="https://github.com/user-attachments/assets/4c7139ff-132d-41ad-8ef6-3e2a8b8c2655"> 
 
-# Download buttons on github 👾
+# Download documents using buttons 👾
 When you click the download button you will see that you can download an image to verify that the button works fully.
 <p align="center">
   <a href="https://github.com/K3ury99/Annotations-for-GitHub/raw/main/img.pdf" download>
