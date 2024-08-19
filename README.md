@@ -56,7 +56,7 @@ https://gprm.itsvg.in
 # Download buttons on github 👾
 When you click the download button you will see that you can download an image to verify that the button works fully.
 <p align="center">
-  <a href="https://raw.githubusercontent.com/K3ury99/Annotations-for-GitHub/main/img.png" download>
+  <a href="https://github.com/K3ury99/Annotations-for-GitHub/raw/main/img.pdf" download>
     <img src="https://img.shields.io/badge/Download%20IMG-%23007bff?style=for-the-badge&logo=download&logoColor=white" alt="Download IMG">
   </a>
 </p>
