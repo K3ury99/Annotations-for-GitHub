@@ -50,7 +50,7 @@ https://gprm.itsvg.in
 ```
 # Banners with Canva! 💎
 > [!NOTE]
-> The banners present your person, you can make a banner like this profile in Canva in very few steps and without needing much knowledge as a designer.
+> The banners present your person, you can make a **banner** like this profile in **Canva** in very few steps and without needing much knowledge as a designer.
 <img src="https://github.com/user-attachments/assets/4c7139ff-132d-41ad-8ef6-3e2a8b8c2655"> 
 
 
