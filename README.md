@@ -19,7 +19,7 @@
 > [!CAUTION]
 >Here we can put things that we should be very careful with
 
-# side by side images 🌋
+# side by side images 🐱‍👤
 <div style="display: flex;">
   <img src="https://github.com/user-attachments/assets/75ae073e-8c1e-42c0-9a3b-e3e2f0b7d915" width="49%"></img> 
   <img src="https://github.com/user-attachments/assets/ba83f52f-b284-4061-b65d-a5f5cfd619cd" width="49%"></img>   
