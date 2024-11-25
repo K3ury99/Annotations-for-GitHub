@@ -25,6 +25,11 @@
   <img src="https://github.com/user-attachments/assets/ba83f52f-b284-4061-b65d-a5f5cfd619cd" width="49%"></img>   
 </div>
 
+# Videos 🌋
+You can also upload videos to GitHub for your short presentations in your Readme Files, just drag the file into the code editing area of GitHub!
+
+https://github.com/user-attachments/assets/56f9dca0-7364-4038-89c1-454356ced214
+
 # Underline words 🖋
 This way you can `underline` the most `important` words!
 
@@ -66,10 +71,7 @@ https://gprm.itsvg.in
 > [!IMPORTANT]
 > You can see in more detail all the information and the correct way to use all this by going to the **`README.md`** file of this repository.
 
-# Videos 🌋
-You can also upload videos to GitHub for your short presentations in your Readme Files, just drag the file into the code editing area of GitHub!
 
-https://github.com/user-attachments/assets/56f9dca0-7364-4038-89c1-454356ced214
 
 
 
