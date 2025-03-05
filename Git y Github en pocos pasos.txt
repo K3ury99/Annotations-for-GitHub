@@ -1,0 +1,62 @@
+### Clonar un repositorio de GitHub (Descargar un proyecto)
+1. **Clonar un repositorio existente:**
+   git clone <URL-del-repositorio>
+
+
+
+### Preparar un proyecto nuevo para subir a GitHub
+1. **Inicializar un nuevo repositorio en un directorio:**
+   git init  (Esto casi siempre esta agregado)
+
+2. **Añadir archivos al área de preparación (staging area):**
+   git add .
+
+3. **Hacer un commit de los archivos añadidos:**
+   git commit -m "Mensaje del commit"
+
+4. **Agregar el repositorio remoto (si no se clonó de uno):**
+   git remote add origin <URL-del-repositorio>
+
+
+
+### Actualizar el repositorio local con los cambios del remoto (Pull)
+1. **Obtener y fusionar los cambios del repositorio remoto a la rama actual:**
+   git pull 
+
+
+
+### Subir cambios a GitHub (Push)
+1. **Enviar los cambios locales al repositorio remoto:**
+   git push origin main
+
+### Otros comandos útiles:
+1. **Ver el estado del repositorio:**
+   git status
+
+2. **Ver el historial de commits:**
+   git log o git log --oneline
+
+3. **Crear una nueva rama**
+   git branch <nombre-de-la-rama>
+
+4. **Crear una nueva rama y cambia a ella automaticamente:**
+   git checkout -b <nombre-de-la-rama>
+
+5. **Cambiar a una rama existente:**
+   git checkout <nombre-de-la-rama>
+
+6. **Fusionar una rama con la rama actual:**
+   git merge <nombre-de-la-rama>
+
+
+
+### Para subir un proyecto de Flutter es sencillo:
+---Primero se crea el repo sin readme, .gitignore, ni LICENSE.
+1. Se coloca el git init.
+2. git remote add origin https://github.com/tu-usuario/nombre-del-repositorio.git
+3. se agregan todos los archivos con git add .
+4. se agrega "git config --global core.autocrlf true", para que github maneje los saltos de linea automaticamente.
+5. se hace el commit -m "Proyector guardado" 
+6. git branch -M main
+7. git push -u origin main
+Todo listo!
